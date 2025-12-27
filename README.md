@@ -23,7 +23,7 @@ The goal is not to guarantee stock price prediction, but to apply and evaluate m
 Initial analysis is performed on the following Indian stocks:
 - RELIANCE
 - TCS
-- HDFCBANK
+- SBIN
 - INFY
 
 The project is designed to be scalable to additional stocks in future iterations.
